@@ -1,0 +1,270 @@
+---------------------------------------------------------------
+[ 2018-12-19T16:59:42+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ sql ] [ DB ] CONNECT:[ UseTime:0.043003s ] mysql:dbname=yzm;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.083005s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-12-19T17:01:49+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.tp.com/ [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：382.98kb] [文件加载：45]
+[ info ] [ LANG ] F:\wamp64\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => '__guid=141166900.1191890133170461700.1545207580982.6018; Hm_lvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545207582; pgv_pvi=9461642240; pgv_si=s1063354368; monitor_count=3; Hm_lpvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545209983',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\wamp64\www\tp5\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=yzm;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.002000s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-12-19T17:01:52+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.tp.com/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：382.59kb] [文件加载：45]
+[ info ] [ LANG ] F:\wamp64\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => '__guid=141166900.1191890133170461700.1545207580982.6018; Hm_lvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545207582; pgv_pvi=9461642240; pgv_si=s1063354368; monitor_count=4; Hm_lpvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545210110',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\wamp64\www\tp5\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=yzm;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.002000s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-12-19T17:02:50+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.tp.com/ [运行时间：0.083005s][吞吐率：12.05req/s] [内存消耗：448.39kb] [文件加载：53]
+[ info ] [ LANG ] F:\wamp64\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => '__guid=141166900.1191890133170461700.1545207580982.6018; Hm_lvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545207582; pgv_pvi=9461642240; pgv_si=s1063354368; monitor_count=5; Hm_lpvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545210113',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\wamp64\www\tp5\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=yzm;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.003000s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.001001s ]
+[ error ] [0]模板文件不存在:F:\wamp64\www\tp5\public/../application/index\view\index\index.html[F:\wamp64\www\tp5\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-12-19T17:03:47+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.tp.com/ [运行时间：0.065004s][吞吐率：15.38req/s] [内存消耗：465.20kb] [文件加载：53]
+[ info ] [ LANG ] F:\wamp64\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => '__guid=141166900.1191890133170461700.1545207580982.6018; Hm_lvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545207582; pgv_pvi=9461642240; pgv_si=s1063354368; monitor_count=6; Hm_lpvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545210171',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\wamp64\www\tp5\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp64\www\tp5\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=yzm;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.003000s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-12-19T17:10:45+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.tp.com/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：275.78kb] [文件加载：40]
+[ info ] [ LANG ] F:\wamp64\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => '__guid=141166900.1191890133170461700.1545207580982.6018; Hm_lvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545207582; pgv_pvi=9461642240; pgv_si=s1063354368; monitor_count=7; Hm_lpvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545210228',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'[F:\wamp64\www\tp5\application\index\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2018-12-19T17:11:05+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.tp.com/ [运行时间：0.051003s][吞吐率：19.61req/s] [内存消耗：474.39kb] [文件加载：55]
+[ info ] [ LANG ] F:\wamp64\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => '__guid=141166900.1191890133170461700.1545207580982.6018; Hm_lvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545207582; pgv_pvi=9461642240; pgv_si=s1063354368; monitor_count=8; Hm_lpvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545210647',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\wamp64\www\tp5\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp64\www\tp5\public/../application/index\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=yzm;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.002000s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-12-19T17:11:24+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.tp.com/ [运行时间：0.053003s][吞吐率：18.87req/s] [内存消耗：462.38kb] [文件加载：59]
+[ info ] [ LANG ] F:\wamp64\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => '__guid=141166900.1191890133170461700.1545207580982.6018; Hm_lvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545207582; pgv_pvi=9461642240; pgv_si=s1063354368; monitor_count=9; Hm_lpvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545210667',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\wamp64\www\tp5\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp64\www\tp5\public/../application/index\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=yzm;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.003001s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.001000s ]
+[ error ] [8]未定义数组索引: passwor[F:\wamp64\www\tp5\runtime\temp\0c5db565a4a072928a12fa1d73268cee.php:27]
+---------------------------------------------------------------
+[ 2018-12-19T17:11:30+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.tp.com/ [运行时间：0.029002s][吞吐率：34.48req/s] [内存消耗：472.40kb] [文件加载：55]
+[ info ] [ LANG ] F:\wamp64\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => '__guid=141166900.1191890133170461700.1545207580982.6018; Hm_lvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545207582; pgv_pvi=9461642240; pgv_si=s1063354368; monitor_count=10; Hm_lpvt_39dcd5bd05965dcfa70b1d2457c6dcae=1545210686',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\wamp64\www\tp5\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp64\www\tp5\public/../application/index\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=yzm;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.002000s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.001000s ]
